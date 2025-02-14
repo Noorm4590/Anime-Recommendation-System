@@ -22,7 +22,7 @@ This project is an **Anime Recommendation System** that leverages **User-Based C
 1. Clone the repository:
    ```bash
    git clone https://github.com/Noorm4590/Anime-Recommendation-System.git
-   cd anime-recommendation
+   cd Anime-Recommendation-System
    ```
 2. Install dependencies:
    ```bash
